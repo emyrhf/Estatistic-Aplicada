@@ -25,7 +25,6 @@ Aplicar conceitos estatísticos na prática por meio da análise de dados, explo
 - Jupyter Notebook
 - Pandas
 - NumPy
-- Matplotlib / Seaborn
 
 ---
 
